@@ -1,4 +1,4 @@
-### Hey There :wave:
+# Hey There :wave:
 
 ![My Skills](https://skillicons.dev/icons?i=c,cpp,bash)
 
@@ -8,3 +8,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuccaC-M&layout=compact&theme=vue)
 
 
+### My work
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuccaC-M&repo=Multicrypt)](https://github.com/LuccaC-M/Multicrypt)
