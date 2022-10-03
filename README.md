@@ -9,5 +9,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuccaC-M&layout=compact&theme=vue)
 
 # Repos
-
-[![Multi](https://github-readme-stats.vercel.app/api/pin/?username=LuccaC-M&repo=Multicrypt)]((https://github.com/LuccaC-M/Multicrypt)
+[![Multi](https://github-readme-stats.vercel.app/api/pin/?username=LuccaC-M&repo=Multicrypt&theme=vue)](https://github.com/LuccaC-M/Multicrypt)
