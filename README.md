@@ -10,4 +10,4 @@
 
 ### My work
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuccaC-M&repo=Multicrypt)](https://github.com/LuccaC-M/Multicrypt)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuccaC-M&repo=Multicrypt&theme=vue)](https://github.com/LuccaC-M/Multicrypt)
