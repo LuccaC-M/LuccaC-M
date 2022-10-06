@@ -11,11 +11,11 @@
 
 ## Stats
 <h6>
-  <a align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=LuccaC-M&count_private=true&show_icons=true&theme=tokyonight_duo" alt="return 2;" />
+  <a>
+    <img src="https://github-readme-stats.vercel.app/api?username=LuccaC-M&count_private=true&show_icons=true&theme=tokyonight_duo&" alt="return 2;" />
   </a>
-  <b align="right">
-    <img src="https://streak-stats.demolab.com?user=LuccaC-M&theme=tokyonight_duo&border_radius=9&stroke=0C324D" alt="return 3;" />
+  <b>
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuccaC-M&theme=tokyonight_duo&layout=compact" alt="return 3;" />
   </b>
 </h6>
 
@@ -24,6 +24,6 @@
 </h6>
 
 <h6 align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuccaC-M&theme=tokyonight_duo" alt="return 5;" />
+  <img src="https://streak-stats.demolab.com?user=LuccaC-M&theme=tokyonight_duo&border_radius=9&stroke=0C324D" alt="return 5;" />
 </h6>
 
