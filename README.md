@@ -1,29 +1,49 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&pause=1000&color=D27777&background=F3F3F3&center=true&vCenter=true&width=435&lines=Hello%2C+There+%F0%9F%91%8B" alt="Typing SVG" />
-  </a>
-</h1>
+<h1 align="center">Hello There 👋, I am Lucca</h1>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LuccaC-M" alt="LuccaC-M" /></a> </p>
 
-## Languages & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,bash,git" alt="Skill Icons" />
+- 🌱 I’m currently learning **Go, Dart**
+
+- 📫 How to reach me **git.yfm@slmail.me**
+
+
+
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
+</a> 
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+</a> 
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+</a> 
+<a href="https://dart.dev" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> 
+</a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+</a> 
+<a href="https://golang.org" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> 
+</a> 
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+</a> 
 </p>
 
-## Stats
-<p>
-  <a>
-    <img src="https://github-readme-stats.vercel.app/api?username=LuccaC-M&count_private=true&show_icons=true&theme=tokyonight_duo&" alt="Stats 1" />
-  </a>
-  <b>
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuccaC-M&theme=tokyonight_duo&layout=compact" alt="Stats 2" />
-  </b>
+<h3 align="left">Stats:</h3>
+
+<br>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=LuccaC-M&show_icons=true&theme=tokyonight_duo&locale=en&layout=compact" alt="LuccaC-M" />
+</p>
+<p align="center">&nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=LuccaC-M&show_icons=true&theme=tokyonight_duo&locale=en" alt="LuccaC-M" />
 </p>
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=LuccaC-M&theme=tokyo-night&bg_color=fbfbfc&hide_border=true" alt="Stats 3" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=LuccaC-M&theme=tokyonight_duo&border_radius=9&stroke=0C324D" alt="Stats 4" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=LuccaC-M&theme=tokyonight_duo" alt="LuccaC-M" />
 </p>
 
