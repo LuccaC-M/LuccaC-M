@@ -5,25 +5,25 @@
 </h1>
 
 ## Languages & Tools
-<h6 align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,bash,git" alt="return 1;" />
-</h6>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,bash,git" alt="Skill Icons" />
+</p>
 
 ## Stats
-<h6>
+<p>
   <a>
-    <img src="https://github-readme-stats.vercel.app/api?username=LuccaC-M&count_private=true&show_icons=true&theme=tokyonight_duo&" alt="return 2;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=LuccaC-M&count_private=true&show_icons=true&theme=tokyonight_duo&" alt="Stats 1" />
   </a>
   <b>
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuccaC-M&theme=tokyonight_duo&layout=compact" alt="return 3;" />
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuccaC-M&theme=tokyonight_duo&layout=compact" alt="Stats 2" />
   </b>
-</h6>
+</p>
 
-<h6 align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=LuccaC-M&theme=tokyo-night&bg_color=fbfbfc&hide_border=true" alt="return 4;" />
-</h6>
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=LuccaC-M&theme=tokyo-night&bg_color=fbfbfc&hide_border=true" alt="Stats 3" />
+</p>
 
-<h6 align="center">
-  <img src="https://streak-stats.demolab.com?user=LuccaC-M&theme=tokyonight_duo&border_radius=9&stroke=0C324D" alt="return 5;" />
-</h6>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=LuccaC-M&theme=tokyonight_duo&border_radius=9&stroke=0C324D" alt="Stats 4" />
+</p>
 
