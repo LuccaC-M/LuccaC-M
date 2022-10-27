@@ -34,6 +34,9 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
 <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> 
 </a> 
+<a href="https://python.org/" target="_blank" rel="nonreferrer">
+  <img src="https://skillicons.dev/icons?i=python" alt="python" width="40" height="40"/> 
+</a> 
 </p>
 
 <h3 align="left">Stats:</h3>
