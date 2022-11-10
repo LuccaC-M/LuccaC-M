@@ -4,7 +4,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LuccaC-M" alt="LuccaC-M" /></a> </p>
 
-- 🌱 I’m currently learning **Go & Dart**
+- 🌱 I’m currently learning **Go, Dart & C++**
 
 - 📫 How to reach me **git.yfm@slmail.me**
 
