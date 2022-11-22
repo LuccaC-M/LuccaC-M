@@ -4,43 +4,52 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LuccaC-M" alt="LuccaC-M" /></a> </p>
 
-- 🌱 I’m currently learning **Go, Dart & C++**
+- 🌱 I’m currently learning **too many things**
 
 - 📫 How to reach me **git.yfm@slmail.me**
 
 
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
-<img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> 
-</a> 
+<h3 align="left">Languages:</h3>
+<h5> Ordered from most (left) to least (right) known. </h5>
+<p align="center"> 
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
+<img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> 
+</a>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
 <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> 
 </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-<img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> 
-</a> 
 <a href="https://dart.dev" target="_blank" rel="noreferrer"> 
 <img src="https://skillicons.dev/icons?i=dart" alt="dart" width="40" height="40"/> 
-</a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-<img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> 
 </a> 
-<a href="https://golang.org" target="_blank" rel="noreferrer"> 
-<img src="https://skillicons.dev/icons?i=go" alt="go" width="40" height="40"/> 
-</a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-<img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> 
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
+<img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> 
 </a> 
 <a href="https://python.org/" target="_blank" rel="nonreferrer">
   <img src="https://skillicons.dev/icons?i=python" alt="python" width="40" height="40"/> 
 </a> 
 </p>
+<h3 align="left">Tools I use:</h3>
+<h5>Not ordered.</h5>
+<p align="center">
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+<img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> 
+</a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+<img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> 
+</a>
+</a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+<img src="https://skillicons.dev/icons?i=vscode" alt="git" width="40" height="40"/> 
+</a>
+</a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+<img src="https://skillicons.dev/icons?i=neovim" alt="git" width="40" height="40"/> 
+</a>
+</p>
 
 <h3 align="left">Stats:</h3>
-
 <br>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LuccaC-M&show_icons=true&theme=dark&locale=en&layout=compact" alt="LuccaC-M" />
