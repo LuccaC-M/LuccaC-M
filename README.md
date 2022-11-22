@@ -40,25 +40,29 @@
 <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> 
 </a>
 </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-<img src="https://skillicons.dev/icons?i=vscode" alt="git" width="40" height="40"/> 
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
+<img src="https://skillicons.dev/icons?i=vscode" alt="vscode" width="40" height="40"/> 
 </a>
 </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-<img src="https://skillicons.dev/icons?i=neovim" alt="git" width="40" height="40"/> 
+<a href="https://neovim.io" target="_blank" rel="noreferrer"> 
+<img src="https://skillicons.dev/icons?i=neovim" alt="neovim" width="40" height="40"/> 
+</a>
+</a>
+<a href="https://godotengine.org" target="_blank" rel="noreferrer"> 
+<img src="https://skillicons.dev/icons?i=godot" alt="godot" width="40" height="40"/> 
 </a>
 </p>
 
 <h3 align="left">Stats:</h3>
 <br>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=LuccaC-M&show_icons=true&theme=dark&locale=en&layout=compact" alt="LuccaC-M" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=LuccaC-M&show_icons=true&theme=city_lights&locale=en&layout=compact" alt="LuccaC-M" />
 </p>
 <p align="center">&nbsp;
-<img src="https://github-readme-stats.vercel.app/api?username=LuccaC-M&show_icons=true&theme=dark&locale=en" alt="LuccaC-M" />
+<img src="https://github-readme-stats.vercel.app/api?username=LuccaC-M&show_icons=true&theme=city_lights&locale=en" alt="LuccaC-M" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=LuccaC-M&theme=dark" alt="LuccaC-M" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=LuccaC-M&theme=city-lights" alt="LuccaC-M" />
 </p>
 
