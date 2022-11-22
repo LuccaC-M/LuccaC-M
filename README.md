@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/LuccaC-M/LuccaC-M/master/img/banner.png" alt="banner"/> 
 </h1>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LuccaC-M" alt="LuccaC-M" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LuccaC-M&theme=nord" alt="LuccaC-M" /></a> </p>
 
 - 🌱 I’m currently learning **too many things**
 
