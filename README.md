@@ -21,10 +21,7 @@ Hi 👋, I'm Lucca, someone who enjoys coding, tech, chess, && math. I play vide
 </a> 
 <a href="https://dart.dev" target="_blank" rel="noreferrer"> 
 <img src="https://skillicons.dev/icons?i=dart" alt="dart" width="40" height="40"/> 
-</a> 
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
-<img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> 
-</a> 
+</a>  
 <a href="https://python.org/" target="_blank" rel="nonreferrer">
   <img src="https://skillicons.dev/icons?i=python" alt="python" width="40" height="40"/> 
 </a> 
