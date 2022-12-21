@@ -5,7 +5,6 @@
 Hi 👋, I'm Lucca, someone who enjoys coding, tech, chess, && math. I play videogames every now and then. My favorite opening in chess is f3 g4. Last but the most important I use Arch BTW.
 - 🌱 I’m currently learning **too many things**
 - ⚡ Fun fact: Ancient Greece wasn't a country
-- 📫 How to reach me **git.yfm@slmail.me**
 <h1></h1>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LuccaC-M&theme=nord" alt="LuccaC-M" /></a> </p>
@@ -56,7 +55,20 @@ Hi 👋, I'm Lucca, someone who enjoys coding, tech, chess, && math. I play vide
 </p>
 
 <p align="center">
+<a href="https://www.codewars.com/users/LuccaC-M">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuccaC-M&theme=city-lights" alt="LuccaC-M" />
+</a>
+<a href="https://www.codewars.com/users/LuccaC-M">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=LuccaC-M&theme=city-lights" alt="LuccaC-M" />
+</a>
 </p>
-
+<h3>Other Accounts:</h3>
+<p align="center">
+<a href="https://www.codewars.com/users/LuccaC-M">
+<img src="https://github.com/codewars/branding/blob/master/logo.svg" alt="LuccaC-M" width="38" height="38"/>
+</a>
+<a href="https://gitlab.com/LuccaC-M">
+<img src="https://skillicons.dev/icons?i=gitlab" alt="LuccaC-M" width="40" height="40"/>
+</a>
+</p>
 #### ":q to quit"
