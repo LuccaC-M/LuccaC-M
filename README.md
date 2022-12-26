@@ -1,8 +1,6 @@
 <h1> 
 <img src="https://raw.githubusercontent.com/LuccaC-M/LuccaC-M/master/img/banner.png" alt="banner"/> 
 </h1>
-
-Hi 👋, I'm Lucca, someone who enjoys coding, tech, chess, && math. I play videogames every now and then. My favorite opening in chess is f3 g4. Last but the most important I use Arch BTW.
 - 🌱 I’m currently learning **too many things**
 - ⚡ Fun fact: Ancient Greece wasn't a country
 <h1></h1>
