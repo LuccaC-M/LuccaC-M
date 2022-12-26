@@ -1,7 +1,9 @@
 <h1> 
 <img src="https://raw.githubusercontent.com/LuccaC-M/LuccaC-M/master/img/banner.png" alt="banner"/> 
 </h1>
+
 - 🌱 I’m currently learning **too many things**
+
 - ⚡ Fun fact: Ancient Greece wasn't a country
 <h1></h1>
 
@@ -53,9 +55,6 @@
 </p>
 
 <p align="center">
-<a href="https://www.codewars.com/users/LuccaC-M">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=LuccaC-M&theme=city-lights" alt="LuccaC-M" />
-</a>
 <a href="https://www.codewars.com/users/LuccaC-M">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuccaC-M&theme=city-lights" alt="LuccaC-M" />
 </a>
