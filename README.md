@@ -3,8 +3,6 @@
 </h1>
 
 - 🌱 I’m currently learning **too many things**
-
-- ⚡ Fun fact: Ancient Greece wasn't a country
 <h1></h1>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LuccaC-M&theme=nord" alt="LuccaC-M" /></a> </p>
