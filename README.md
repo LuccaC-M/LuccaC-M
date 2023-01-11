@@ -1,7 +1,6 @@
 <h1> 
 <img src="https://raw.githubusercontent.com/LuccaC-M/LuccaC-M/master/img/banner.png" alt="banner"/> 
 </h1>
-
 - 🌱 I’m currently learning **too many things**
 <h1></h1>
 
@@ -45,7 +44,7 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LuccaC-M&show_icons=true&theme=city_lights&locale=en&layout=compact" alt="LuccaC-M" />
 </p>
-<p align="center">&nbsp;
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=LuccaC-M&show_icons=true&theme=city_lights&locale=en" alt="LuccaC-M" />
 </p>
 
@@ -56,11 +55,14 @@
 </p>
 <h3>Other Accounts:</h3>
 <p align="center">
-<a href="https://www.codewars.com/users/LuccaC-M">
-<img src="https://github.com/codewars/branding/blob/master/logo.svg" alt="LuccaC-M" width="38" height="38"/>
+<a href=https://www.codewars.com/users/LuccaC-M>
+<img src="https://www.codewars.com/users/LuccaC-M/badges/micro" alt="CodeWars Level"/>
 </a>
+</p>
+<p align="center">
 <a href="https://gitlab.com/LuccaC-M">
 <img src="https://skillicons.dev/icons?i=gitlab" alt="LuccaC-M" width="40" height="40"/>
 </a>
 </p>
+
 #### ":q to quit"
