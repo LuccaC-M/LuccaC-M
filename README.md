@@ -1,6 +1,7 @@
 <h1> 
 <img src="https://raw.githubusercontent.com/LuccaC-M/LuccaC-M/master/img/banner.png" alt="banner"/> 
 </h1>
+
 - 🌱 I’m currently learning **too many things**
 <h1></h1>
 
