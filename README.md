@@ -43,10 +43,10 @@
 <h3 align="left">Stats:</h3>
 <br>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=LuccaC-M&show_icons=true&theme=city_lights&locale=en&layout=compact" alt="LuccaC-M" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=LuccaC-M&show_icons=true&theme=city_lights&locale=en&layout=compact" alt="LuccaC-M" />
 </p>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=LuccaC-M&show_icons=true&theme=city_lights&locale=en" alt="LuccaC-M" />
+<img src="https:/github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LuccaC-M&show_icons=true&theme=city_lights&locale=en" alt="LuccaC-M" />
 </p>
 
 <p align="center">
