@@ -12,7 +12,7 @@
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
 <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> 
 </a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">  LuccaC-M/Le-Password
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
 <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> 
 </a>
  <a href="https://lua.org" target="_blank" rel="noreferrer"> 
