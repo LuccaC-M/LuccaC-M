@@ -12,7 +12,7 @@
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
 <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> 
 </a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">  LuccaC-M/Le-Password
 <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> 
 </a>
  <a href="https://lua.org" target="_blank" rel="noreferrer"> 
@@ -23,7 +23,6 @@
 </a>   
 </p>
 <h3 align="left">Tools I use:</h3>
-<h5>Not ordered.</h5>
 <p align="center">
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
 <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> 
