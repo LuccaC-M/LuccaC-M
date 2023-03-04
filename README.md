@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/LuccaC-M/LuccaC-M/master/img/banner.png" alt="banner"/> 
 </h1>
 
-- 🌱 I’m currently learning **too many things**
+- 🌱 I’m currently learning _**too many things**_
 <h1></h1>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LuccaC-M&theme=nord" alt="LuccaC-M" /></a> </p>
@@ -67,4 +67,4 @@
 </a>
 </p>
 
-#### ":q to quit"
+##### ":q to quit"
