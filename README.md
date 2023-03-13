@@ -47,7 +47,7 @@
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=LuccaC-M&show_icons=true&theme=nord&locale=en&layout=compact" alt="LuccaC-M" />
 </p>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=LuccaC-M&show_icons=true&theme=nord" alt="LuccaC-M" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=LuccaC-M&show_icons=true&theme=nord" alt="LuccaC-M" />
 </p>
 
 <p align="center">
