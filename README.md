@@ -3,10 +3,6 @@
 </h1>
 
 - 🌱 I’m currently learning _**too many things**_
-<h1></h1>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LuccaC-M&theme=nord&column=-1" alt="LuccaC-M" /></a> </p>
-
 <p align="center"> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
 <img src="https://skillicons.dev/icons?i=cpp" alt="c++" width="40" height="40"/> 
@@ -36,6 +32,9 @@
 <img src="https://skillicons.dev/icons?i=godot" alt="godot" width="40" height="40"/> 
 </a>
 </p>
+<h1></h1>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LuccaC-M&theme=nord&column=-1" alt="LuccaC-M" /></a> </p>
 
 <h3 align="left">Stats:</h3>
 <br>
