@@ -3,6 +3,7 @@
 </h1>
 
 - 🌱 I’m currently learning _**too many things**_
+<h1></h1>
 <p align="center"> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
 <img src="https://skillicons.dev/icons?i=cpp" alt="c++" width="40" height="40"/> 
@@ -61,5 +62,3 @@
 <img src="https://skillicons.dev/icons?i=gitlab" alt="LuccaC-M" width="40" height="40"/>
 </a>
 </p>
-
-##### ":q to quit"
