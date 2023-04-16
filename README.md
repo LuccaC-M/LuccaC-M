@@ -28,10 +28,6 @@
 <a href="https://neovim.io" target="_blank" rel="noreferrer"> 
 <img src="https://skillicons.dev/icons?i=neovim" alt="neovim" width="40" height="40"/> 
 </a>
-</a>
-<a href="https://godotengine.org" target="_blank" rel="noreferrer"> 
-<img src="https://skillicons.dev/icons?i=godot" alt="godot" width="40" height="40"/> 
-</a>
 </p>
 <h1></h1>
 
